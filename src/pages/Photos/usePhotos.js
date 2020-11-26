@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 
 export const usePhotos = () => {
     const [data, setData] = useState([]);
-    const [dataNext, setDataNext] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [isError, setIsError] = useState(false);
 
