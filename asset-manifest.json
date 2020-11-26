@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/test_Test/static/css/main.e6150a7a.chunk.css",
-    "main.js": "/test_Test/static/js/main.5fa9bf94.chunk.js",
-    "main.js.map": "/test_Test/static/js/main.5fa9bf94.chunk.js.map",
-    "runtime-main.js": "/test_Test/static/js/runtime-main.9697079e.js",
-    "runtime-main.js.map": "/test_Test/static/js/runtime-main.9697079e.js.map",
-    "static/js/2.edc1d0c0.chunk.js": "/test_Test/static/js/2.edc1d0c0.chunk.js",
-    "static/js/2.edc1d0c0.chunk.js.map": "/test_Test/static/js/2.edc1d0c0.chunk.js.map",
-    "index.html": "/test_Test/index.html",
-    "precache-manifest.2bc55309857007efc81d486b4657f309.js": "/test_Test/precache-manifest.2bc55309857007efc81d486b4657f309.js",
-    "service-worker.js": "/test_Test/service-worker.js",
-    "static/css/main.e6150a7a.chunk.css.map": "/test_Test/static/css/main.e6150a7a.chunk.css.map",
-    "static/js/2.edc1d0c0.chunk.js.LICENSE.txt": "/test_Test/static/js/2.edc1d0c0.chunk.js.LICENSE.txt",
-    "static/media/сlose.svg": "/test_Test/static/media/сlose.2646c80d.svg"
+    "main.css": "/test_DMM_Solutions/static/css/main.e6150a7a.chunk.css",
+    "main.js": "/test_DMM_Solutions/static/js/main.5fa9bf94.chunk.js",
+    "main.js.map": "/test_DMM_Solutions/static/js/main.5fa9bf94.chunk.js.map",
+    "runtime-main.js": "/test_DMM_Solutions/static/js/runtime-main.b5f1598f.js",
+    "runtime-main.js.map": "/test_DMM_Solutions/static/js/runtime-main.b5f1598f.js.map",
+    "static/js/2.edc1d0c0.chunk.js": "/test_DMM_Solutions/static/js/2.edc1d0c0.chunk.js",
+    "static/js/2.edc1d0c0.chunk.js.map": "/test_DMM_Solutions/static/js/2.edc1d0c0.chunk.js.map",
+    "index.html": "/test_DMM_Solutions/index.html",
+    "precache-manifest.90f2b9028020c340e3e2bf7a81fc085f.js": "/test_DMM_Solutions/precache-manifest.90f2b9028020c340e3e2bf7a81fc085f.js",
+    "service-worker.js": "/test_DMM_Solutions/service-worker.js",
+    "static/css/main.e6150a7a.chunk.css.map": "/test_DMM_Solutions/static/css/main.e6150a7a.chunk.css.map",
+    "static/js/2.edc1d0c0.chunk.js.LICENSE.txt": "/test_DMM_Solutions/static/js/2.edc1d0c0.chunk.js.LICENSE.txt",
+    "static/media/сlose.svg": "/test_DMM_Solutions/static/media/сlose.2646c80d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9697079e.js",
+    "static/js/runtime-main.b5f1598f.js",
     "static/js/2.edc1d0c0.chunk.js",
     "static/css/main.e6150a7a.chunk.css",
     "static/js/main.5fa9bf94.chunk.js"
