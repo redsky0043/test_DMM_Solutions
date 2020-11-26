@@ -1,0 +1,27 @@
+// Internal variables
+$x-color-black: #000000;
+$x-color-white: #ffffff;
+$x-color-blue: #4997d0;
+$x-color-gray: #cccccc;
+$x-color-dark-gray: #999999;
+
+
+// Global Variables
+$palette-primary: $x-color-black;
+$palette-secondary: $x-color-white;
+$palette-active: $x-color-blue;
+$palette-input: $x-color-gray;
+$palette-date: $x-color-dark-gray;
+
+
+// Google Fonts
+%roboto-regular {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+%roboto-condensed-regular {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+}
+
